@@ -34,3 +34,4 @@
 /Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.pdb
 /Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.genruntimeconfig.cache
 /Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.csproj.CopyComplete
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/List.cshtml.g.cs

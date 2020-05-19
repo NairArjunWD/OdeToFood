@@ -20531,6 +20531,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/Restaurants/List.cshtml",
+      "TargetPath": "Pages\\Restaurants\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
