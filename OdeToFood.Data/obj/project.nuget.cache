@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xYqaPKAThxuajqers+Zdrcff8re56LtSPRuAnSg1qIdNsmjTk5j65Ghq3IQLPFDmfzqFG3paANeR7zPL7J0cGQ==",
+  "success": true,
+  "projectFilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/OdeToFood.Data.csproj",
+  "expectedPackageFiles": [
+    "/Users/arjunnair/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/arjunnair/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
