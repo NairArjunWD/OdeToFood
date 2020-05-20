@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood.csproj",
+  "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/OdeToFood.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,43 +20521,43 @@
   "RootNamespace": "OdeToFood",
   "Documents": [
     {
-      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/_ViewImports.cshtml",
+      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/Restaurants/List.cshtml",
+      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Restaurants/List.cshtml",
       "TargetPath": "Pages\\Restaurants\\List.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
+      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/_ViewStart.cshtml",
+      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/Privacy.cshtml",
+      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/Error.cshtml",
+      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
