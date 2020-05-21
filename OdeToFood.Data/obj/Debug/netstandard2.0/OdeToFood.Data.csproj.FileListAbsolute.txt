@@ -1,0 +1,12 @@
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netstandard2.0/OdeToFood.Data.csprojAssemblyReference.cache
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netstandard2.0/OdeToFood.Data.csproj.CoreCompileInputs.cache
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netstandard2.0/OdeToFood.Data.AssemblyInfoInputs.cache
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netstandard2.0/OdeToFood.Data.AssemblyInfo.cs
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netstandard2.0/OdeToFood.Data.deps.json
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netstandard2.0/OdeToFood.Data.dll
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netstandard2.0/OdeToFood.Data.pdb
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netstandard2.0/OdeToFood.Core.dll
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/bin/Debug/netstandard2.0/OdeToFood.Core.pdb
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netstandard2.0/OdeToFood.Data.csproj.CopyComplete
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netstandard2.0/OdeToFood.Data.dll
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood.Data/obj/Debug/netstandard2.0/OdeToFood.Data.pdb
