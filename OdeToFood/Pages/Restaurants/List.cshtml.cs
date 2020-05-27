@@ -21,6 +21,7 @@ namespace OdeToFood.Pages.Restaurants
         [BindProperty(SupportsGet = true)]
         public string SearchTerm { get; set; }
 
+        // Made changes here. Trying to create new razor.
         public ListModel(IConfiguration config, IRestaurantData restaurantData)
         {
             this.config = config;
