@@ -25,7 +25,7 @@
             <td>@restaurant.Location</td>
             <td>@restaurant.Cuisine</td>
             <td>
-                <a href="/Restaurants/Detail?restaurantId=@restaurant.Id" class="btn btn-lg">
+                <a class="btn btn-lg" asp-page="./Detail" asp-route-restaurantId="@restaurant.Id">
                     <i class="glyphicon glyphicon-zoom-in"></i>
                 </a>
             </td>
