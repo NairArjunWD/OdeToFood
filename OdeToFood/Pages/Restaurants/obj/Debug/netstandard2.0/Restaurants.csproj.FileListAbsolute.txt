@@ -1,0 +1,4 @@
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Restaurants/obj/Debug/netstandard2.0/Restaurants.csprojAssemblyReference.cache
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Restaurants/obj/Debug/netstandard2.0/Restaurants.csproj.CoreCompileInputs.cache
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Restaurants/obj/Debug/netstandard2.0/Restaurants.AssemblyInfoInputs.cache
+/Users/arjunnair/Desktop/csharp/dotNet/OdeToFood/OdeToFood/OdeToFood/Pages/Restaurants/obj/Debug/netstandard2.0/Restaurants.AssemblyInfo.cs
